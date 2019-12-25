@@ -1,1 +1,1 @@
-# independent-projects
+projects
